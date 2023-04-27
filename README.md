@@ -1,5 +1,5 @@
-<img width="315" alt="Снимок экрана 2023-04-27 в 16 35 56" src="https://user-images.githubusercontent.com/105720427/234863748-44b03e46-62ec-4f99-9801-bdf3cf79366e.png">
-<img width="314" alt="Снимок экрана 2023-04-27 в 16 36 10" src="https://user-images.githubusercontent.com/105720427/234863782-4c9ac895-abfb-438d-a3d9-a51c46f9d2dc.png">
+<img width="315" alt="Снимок экрана 2023-04-27 в 16 35 56" src="https://user-images.githubusercontent.com/105720427/234863748-44b03e46-62ec-4f99-9801-bdf3cf79366e.png"> <img width="314" alt="Снимок экрана 2023-04-27 в 16 36 10" src="https://user-images.githubusercontent.com/105720427/234863782-4c9ac895-abfb-438d-a3d9-a51c46f9d2dc.png">
+
 
 # Куринной Юрий
 ## Тестовое задание Mobile Swift, приложение "Погода"
