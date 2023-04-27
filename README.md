@@ -1,7 +1,4 @@
-<img width="250" alt="Снимок экрана 2023-04-27 в 16 35 56" src="https://user-images.githubusercontent.com/105720427/234864975-952826ec-47d0-42c5-bb1f-36e0ea7712d8.png">
-
-<img width="250" alt="Снимок экрана 2023-04-27 в 16 36 10" src="https://user-images.githubusercontent.com/105720427/234864994-2bdbaef2-21bb-41d0-9ed3-584d95eee2d9.png">
-
+<img width="484" alt="Снимок экрана 2023-04-27 в 16 45 21" src="https://user-images.githubusercontent.com/105720427/234866283-cb90e7e6-1cb6-454a-b312-5b54078b6ed4.png">
 
 
 # Куринной Юрий
