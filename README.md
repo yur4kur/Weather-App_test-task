@@ -1,4 +1,6 @@
-<img width="160" alt="Снимок экрана 2023-04-27 в 16 35 56" src="https://user-images.githubusercontent.com/105720427/234864440-50bb71bc-95f1-435e-aed7-c3ec3abb77ac.png"><img width="160" alt="Снимок экрана 2023-04-27 в 16 36 10" src="https://user-images.githubusercontent.com/105720427/234864477-67fb501e-af88-40dd-b1c3-a38a61a3790b.png">
+<img width="250" alt="Снимок экрана 2023-04-27 в 16 35 56" src="https://user-images.githubusercontent.com/105720427/234864975-952826ec-47d0-42c5-bb1f-36e0ea7712d8.png">
+
+<img width="250" alt="Снимок экрана 2023-04-27 в 16 36 10" src="https://user-images.githubusercontent.com/105720427/234864994-2bdbaef2-21bb-41d0-9ed3-584d95eee2d9.png">
 
 
 
